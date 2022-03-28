@@ -299,4 +299,7 @@ HEALTHCHECK --interval=2s --timeout=40s --retries=1 \
 
 CMD /usr/bin/supervisord --configuration supervisord.conf
 
+#===================
+# Run clean test to downaload dependencies
+#===================
 RUN mvn clean test
