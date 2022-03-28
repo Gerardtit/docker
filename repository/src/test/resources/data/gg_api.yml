@@ -1,0 +1,224 @@
+acme:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: acme
+    ZIP_DELIVERY_API: "08070"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "08070"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "08070"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+albertsons:
+  qa2:
+
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+
+    #API Data
+    BANNER_API: albertsons
+    ZIP_DELIVERY_API: "83713"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "83713"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "83713"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+jewelosco:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: jewelosco
+    ZIP_DELIVERY_API: "60640"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "60640"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "60640"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+pavilions:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: pavilions
+    ZIP_DELIVERY_API: "90808"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "90808"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "90808"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+randalls:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: randalls
+    ZIP_DELIVERY_API: "77024"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "77024"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "77024"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+safeway:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: safeway
+    ZIP_DELIVERY_API: "94566"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "94566"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "94566"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_CART_API: "94566"
+    STORENAME_CART_API: "1701 Santa Rita Rd"
+    STOREID_CART_API: "1502"
+
+shaws:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: shaws
+    ZIP_DELIVERY_API: "03885"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "03885"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "03885"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+starmarket:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: starmarket
+    ZIP_DELIVERY_API: "02199"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "02199"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "02199"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+tomthumb:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: tomthumb
+    ZIP_DELIVERY_API: "76109"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "76109"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "76109"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+vons:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: vons
+    ZIP_DELIVERY_API: "92110"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "92110"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "92110"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+
+carrs:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios1@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and1@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: carrs
+    ZIP_DELIVERY_API: "99645"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "99645"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "99645"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"

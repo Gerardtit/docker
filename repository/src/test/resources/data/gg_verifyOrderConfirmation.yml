@@ -1,0 +1,170 @@
+tomthumb:
+  qa2:
+
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "75019"
+    MAX_QUANTITY: 20
+
+acme:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "19057"
+    MAX_QUANTITY: 20
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    MAX_QUANTITY: 20
+
+  prod:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    MAX_QUANTITY: 20
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "90069"
+    MAX_QUANTITY: 20
+
+  prod:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "90069"
+    MAX_QUANTITY: 20
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+    MAX_QUANTITY: 20
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    MAX_QUANTITY: 20
+  prod:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    MAX_QUANTITY: 20
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+    MAX_QUANTITY: 20
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "02199"
+    MAX_QUANTITY: 20
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+    MAX_QUANTITY: 20
+
+carrsqc:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+    MAX_QUANTITY: 20
+
+  prod:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+    MAX_QUANTITY: 20
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    MAX_QUANTITY: 20
+
+  prod:
+    ios:
+      USERNAME: test.verify.maxcount.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.verify.maxcount.android@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    MAX_QUANTITY: 20

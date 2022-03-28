@@ -1,0 +1,439 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.tom@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.tom@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "76109"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "76109"
+    STORENAME_PRODUCTS: 3100 S Hulen St
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "76109"
+    STORENAME_EXCLUSIVE: 3100 S Hulen St
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "76109"
+    STORENAME_INSTORE: 3100 S Hulen St
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "76109"
+    STORENAME_AEM_CAROUSEL: 3100 S Hulen St
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "76109"
+    STORENAME_PHARMACY: 3100 S Hulen St
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.sha@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.sha@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "03885"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "03885"
+    STORENAME_PRODUCTS: 100 Shaws Ln
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "03060"
+    STORENAME_EXCLUSIVE: 300 Main St
+    SHOPPING_MODE_EXCLUSIVE: INSTORE
+
+    # In Store run details
+    ZIPCODE_INSTORE: "03885"
+    STORENAME_INSTORE: 100 Shaws Ln
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "03885"
+    STORENAME_AEM_CAROUSEL: 100 Shaws Ln
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "03885"
+    STORENAME_PHARMACY: 100 Shaws Ln
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.von@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.von@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "92110"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: 3645 Midway Dr
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "92110"
+    STORENAME_EXCLUSIVE: 3645 Midway Dr
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "92110"
+    STORENAME_INSTORE: 3645 Midway Dr
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "92110"
+    STORENAME_AEM_CAROUSEL: 3645 Midway Dr
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "92110"
+    STORENAME_PHARMACY: 3645 Midway Dr
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.sta@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.sta@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "02215"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "02215"
+    STORENAME_PRODUCTS: 33 Kilmarnock St
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "02215"
+    STORENAME_EXCLUSIVE: 33 Kilmarnock St
+    SHOPPING_MODE_EXCLUSIVE: INSTORE
+
+    # In Store run details
+    ZIPCODE_INSTORE: "02215"
+    STORENAME_INSTORE: 33 Kilmarnock St
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "02199"
+    STORENAME_AEM_CAROUSEL: 53 Huntington Ave
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "02138"
+    STORENAME_PHARMACY: 699 Mt Auburn St
+    SHOPPING_MODE_PHARMACY: INSTORE
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.saf@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.saf@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "94566"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "94566"
+    STORENAME_PRODUCTS: 6790 Bernal Ave
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "94566"
+    STORENAME_EXCLUSIVE: 6790 Bernal Ave
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "94566"
+    STORENAME_INSTORE: 6790 Bernal Ave
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "94566"
+    STORENAME_AEM_CAROUSEL: 6790 Bernal Ave
+    SHOPPING_MODE_AEM_CAROUSEL: DELIVERY
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "94566"
+    STORENAME_PHARMACY: 6790 Bernal Ave
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.ran@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.ran@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "77024"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "77024"
+    STORENAME_PRODUCTS: 12850 Memorial Dr
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "77024"
+    STORENAME_EXCLUSIVE: 12850 Memorial Dr
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "77024"
+    STORENAME_INSTORE: 12850 Memorial Dr
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "77024"
+    STORENAME_AEM_CAROUSEL: 12850 Memorial Dr
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "77024"
+    STORENAME_PHARMACY: 12850 Memorial Dr
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.pav@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.pav@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "90069"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "90069"
+    STORENAME_PRODUCTS: 8969 Santa Monica Blvd
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "90069"
+    STORENAME_EXCLUSIVE: 8969 Santa Monica Blvd
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "90069"
+    STORENAME_INSTORE: 8969 Santa Monica Blvd
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "90069"
+    STORENAME_AEM_CAROUSEL: 8969 Santa Monica Blvd
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "90808"
+    STORENAME_PHARMACY: 5949 E Spring St
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.jew@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.jew@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "60640"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "60640"
+    STORENAME_PRODUCTS: 2940 N Ashland Ave
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "60640"
+    STORENAME_EXCLUSIVE: 2940 N Ashland Ave
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "60640"
+    STORENAME_INSTORE: 2940 N Ashland Ave
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "60640"
+    STORENAME_AEM_CAROUSEL: 2940 N Ashland Ave
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "60640"
+    STORENAME_PHARMACY: 2940 N Ashland Ave
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.alb@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.alb@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "83713"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "83713"
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "83713"
+    STORENAME_EXCLUSIVE: 4700 N Eagle Rd
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "83713"
+    STORENAME_INSTORE: 4700 N Eagle Rd
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "83713"
+    STORENAME_AEM_CAROUSEL: 4700 N Eagle Rd
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "83713"
+    STORENAME_PHARMACY: 4700 N Eagle Rd
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+acme:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.acm@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.acm@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "08070"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "08070"
+    STORENAME_PRODUCTS: 251 N Broadway
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "19057"
+    STORENAME_EXCLUSIVE: "6800 New Falls Rd"
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "19057"
+    STORENAME_INSTORE: "6800 New Falls Rd"
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "08070"
+    STORENAME_AEM_CAROUSEL: 251 N Broadway
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "08070"
+    STORENAME_PHARMACY: 251 N Broadway
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.dashboard.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.ios.car@mail7.io
+      PASSWORD_ITEM: testpwd1
+    android:
+      USERNAME: test.dashboard.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_ITEM: test.iyb.and.car@mail7.io
+      PASSWORD_ITEM: testpwd1
+
+    ZIPCODE_DEFAULT: "99645"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "99645"
+    STORENAME_PRODUCTS: 664 W Evergreen Ave
+
+    # Store details for Exclusive Brands
+    ZIPCODE_EXCLUSIVE: "99645"
+    STORENAME_EXCLUSIVE: 664 W Evergreen Ave
+    SHOPPING_MODE_EXCLUSIVE: PICKUP
+
+    # In Store run details
+    ZIPCODE_INSTORE: "99645"
+    STORENAME_INSTORE: 664 W Evergreen Ave
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "99645"
+    STORENAME_AEM_CAROUSEL: 664 W Evergreen Ave
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "99645"
+    STORENAME_PHARMACY: 664 W Evergreen Ave
+    SHOPPING_MODE_PHARMACY: PICKUP

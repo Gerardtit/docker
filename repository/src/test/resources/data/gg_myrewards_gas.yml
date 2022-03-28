@@ -1,0 +1,129 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.tom@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.tom@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+    ZIPCODE_GAS_REWARDS: "75205"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "76109"
+
+vons:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.von@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.von@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_GAS_REWARDS: "75205"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "76109"
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.sta@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.sta@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "02215"
+    ZIPCODE_GAS_REWARDS: "02199"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "02466"
+shaws:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.sha@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.sha@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+    ZIPCODE_GAS_REWARDS: "03885"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "03054"
+
+safeway:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.saf@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.saf@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_GAS_REWARDS: "94707"
+
+randalls:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.ran@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.ran@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+    ZIPCODE_GAS_REWARDS: "77046"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "77024"
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.pav@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.pav@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+    ZIPCODE_GAS_REWARDS: "90808"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "98498"
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.jew@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.jew@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_GAS_REWARDS: "75205"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "60640"
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.alb@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.alb@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_GAS_REWARDS: "90233"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "89129"
+
+acme:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.acm@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.acm@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+    ZIPCODE_GAS_REWARDS: "75205"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "08070"
+
+carrs:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards2.ios.car@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards2.and.car@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+    ZIPCODE_GAS_REWARDS: "75205"
+    DIFFERENT_ZIPCODE_GAS_REWARDS: "76109"

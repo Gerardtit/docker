@@ -1,0 +1,262 @@
+tomthumb:
+  qa2:
+    ios:
+
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "106 N Denton Tap Rd"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "106 N Denton Tap Rd"
+    ZIPCODE_DEFAULT: "75019"
+    ZIPCODE_PRODUCTS: "75019"
+    ZIPCODE_INSTORE: "75019"
+    ZIPCODE_DIFFERENT_BANNER: "94588"
+
+    STORENAME_INSTORE: 106 N Denton Tap Rd
+    STORENAME_PRODUCTS: 106 N Denton Tap Rd
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "3645 Midway Dr"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "3645 Midway Dr"
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_PRODUCTS: "92110"
+    ZIPCODE_INSTORE: "92110"
+    STORENAME_PRODUCTS: 3645 Midway Dr
+
+starmarket:
+  qa2:
+    ios:
+
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "53 Huntington Ave"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "53 Huntington Ave"
+    ZIPCODE_DEFAULT: "02199"
+    ZIPCODE_PRODUCTS: "02199"
+    ZIPCODE_INSTORE: "02199"
+    STORENAME_PRODUCTS: 53 Huntington Ave
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "100 Shaws Ln"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "100 Shaws Ln"
+    ZIPCODE_DEFAULT: "03885"
+    ZIPCODE_PRODUCTS: "03885"
+    ZIPCODE_INSTORE: "03885"
+    STORENAME_PRODUCTS: 100 Shaws Ln
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "6790 Bernal Ave"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "6790 Bernal Ave"
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_PRODUCTS: "94566"
+    ZIPCODE_INSTORE: "94566"
+    STORENAME_PRODUCTS: 6790 Bernal Ave
+  prod:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "6790 Bernal Ave"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "6790 Bernal Ave"
+
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_PRODUCTS: "94566"
+    ZIPCODE_INSTORE: "94566"
+    STORENAME_PRODUCTS: 6790 Bernal Ave
+
+randalls:
+  qa2:
+    ios:
+
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "12850 Memorial Dr"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "12850 Memorial Dr"
+
+    ZIPCODE_DEFAULT: "77024"
+    ZIPCODE_PRODUCTS: "77024"
+    ZIPCODE_INSTORE: "77024"
+    STORENAME_PRODUCTS: 12850 Memorial Dr
+
+pavilions:
+  qa2:
+    ios:
+
+      USERNAME: test.bogo.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "8969 Santa Monica Blvd"
+    android:
+      USERNAME: test.bogo.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "8969 Santa Monica Blvd"
+    ZIPCODE_DEFAULT: "90808"
+    ZIPCODE_PRODUCTS: "90808"
+    ZIPCODE_INSTORE: "90808"
+    STORENAME_PRODUCTS: 5949 E Spring St
+
+
+  prod:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "8969 Santa Monica Blvd"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "8969 Santa Monica Blvd"
+    ZIPCODE_DEFAULT: "90069"
+    ZIPCODE_PRODUCTS: "90069"
+    ZIPCODE_INSTORE: "90069"
+    STORENAME_PRODUCTS: 8969 Santa Monica Blvd
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "2940 N Ashland Ave"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "2940 N Ashland Ave"
+
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_PRODUCTS: "60640"
+    ZIPCODE_INSTORE: "60640"
+    STORENAME_PRODUCTS: 2940 N Ashland Ave
+
+  prod:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "2940 N Ashland Ave"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "2940 N Ashland Ave"
+
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_PRODUCTS: "60640"
+    ZIPCODE_INSTORE: "60640"
+    STORENAME_PRODUCTS: 2940 N Ashland Ave
+
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "4700 N Eagle Rd"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "4700 N Eagle Rd"
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_PRODUCTS: "83713"
+    ZIPCODE_INSTORE: "83713"
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+
+  prod:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "4700 N Eagle Rd"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "4700 N Eagle Rd"
+
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_PRODUCTS: "83713"
+    ZIPCODE_INSTORE: "83713"
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+
+acme:
+  qa2:
+    ios:
+
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "6800 New Falls Rd"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "6800 New Falls Rd"
+    ZIPCODE_DEFAULT: "19057"
+    ZIPCODE_PRODUCTS: "19057"
+    ZIPCODE_INSTORE: "19057"
+    STORENAME_PRODUCTS: 6800 New Falls Rd
+
+carrsqc:
+  qa2:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "664 W Evergreen Ave Palmer"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "664 W Evergreen Ave Palmer"
+    ZIPCODE_DEFAULT: "99645"
+    ZIPCODE_PRODUCTS: "99645"
+    ZIPCODE_INSTORE: "99645"
+    STORENAME_PRODUCTS: 664 W Evergreen Ave Palmer
+
+  prod:
+    ios:
+      USERNAME: test.instore.ios@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "664 W Evergreen Ave Palmer"
+    android:
+      USERNAME: test.instore.and@mail7.io
+      PASSWORD: testpwd1
+      INSTORE_STORE: "664 W Evergreen Ave Palmer"
+    ZIPCODE_DEFAULT: "99645"
+    ZIPCODE_PRODUCTS: "99645"
+    ZIPCODE_INSTORE: "99645"
+    STORENAME_PRODUCTS: 664 W Evergreen Ave Palmer
+
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.bogo.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.bogo.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+    ZIPCODE_PRODUCTS: "99645"
+    ZIPCODE_INSTORE: "99645"
+    STORENAME_PRODUCTS: 664 W Evergreen Ave
+

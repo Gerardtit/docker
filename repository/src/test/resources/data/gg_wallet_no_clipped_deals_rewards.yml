@@ -1,0 +1,65 @@
+acme:
+  qa2:
+    ZIPCODE_DEFAULT: "08070"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+albertsons:
+  qa2:
+    ZIPCODE_DEFAULT: "83713"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+jewelosco:
+  qa2:
+    ZIPCODE_DEFAULT: "60640"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+pavilions:
+  qa2:
+    ZIPCODE_DEFAULT: "90808"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+randalls:
+  qa2:
+    ZIPCODE_DEFAULT: "77024"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+safeway:
+  qa2:
+    ZIPCODE_DEFAULT: "94566"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+shaws:
+  qa2:
+    ZIPCODE_DEFAULT: "03885"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+starmarket:
+  qa2:
+    ZIPCODE_DEFAULT: "02199"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+tomthumb:
+  qa2:
+    ZIPCODE_DEFAULT: "76109"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+vons:
+  qa2:
+    ZIPCODE_DEFAULT: "92110"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+carrs:
+  qa2:
+    ZIPCODE_DEFAULT: "99645"
+
+    SEARCH_PRODUCT_KEYWORD: beef

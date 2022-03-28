@@ -1,0 +1,111 @@
+acme:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+    ZIPCODE_BUY_AGAIN: "08070"
+    STORENAME_BUY_AGAIN: 251 N Broadway
+albertsons:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_BUY_AGAIN: "83713"
+    STORENAME_BUY_AGAIN: 4700 N Eagle Rd
+jewelosco:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_BUY_AGAIN: "60640"
+    STORENAME_BUY_AGAIN: 2940 N Ashland Ave
+pavilions:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+    ZIPCODE_BUY_AGAIN: "90808"
+    STORENAME_BUY_AGAIN: 5949 E Spring St
+randalls:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+    ZIPCODE_BUY_AGAIN: "77024"
+    STORENAME_BUY_AGAIN: 12850 Memorial Dr
+safeway:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_BUY_AGAIN: "94566"
+    STORENAME_BUY_AGAIN: 1701 Santa Rita Rd
+shaws:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+    ZIPCODE_BUY_AGAIN: "03885"
+    STORENAME_BUY_AGAIN: 100 Shaws Ln
+starmarket:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "02199"
+    ZIPCODE_BUY_AGAIN: "02199"
+    STORENAME_BUY_AGAIN: 53 Huntington Ave
+tomthumb:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+    ZIPCODE_BUY_AGAIN: "75019"
+    STORENAME_BUY_AGAIN: 106 N Denton Tap Rd
+vons:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: testauto.purchasehistory@gmail.com
+      PASSWORD_PURCHASEHISTORY: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_BUY_AGAIN: "92110"
+    STORENAME_BUY_AGAIN: 3645 Midway Dr
+

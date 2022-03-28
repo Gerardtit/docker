@@ -1,0 +1,131 @@
+tomthumb:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+    MONOPOLY_DATE: May 04, 2021
+
+vons:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+    MONOPOLY_DATE: May 04, 2021
+
+starmarket:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "02215"
+    MONOPOLY_DATE: May 04, 2021
+
+shaws:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+    MONOPOLY_DATE: May 04, 2021
+
+safeway:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    MONOPOLY_DATE: May 04, 2021
+
+randalls:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+    MONOPOLY_DATE: May 04, 2021
+
+pavilions:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+    MONOPOLY_DATE: May 04, 2021
+
+jewelosco:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    MONOPOLY_DATE: May 04, 2021
+
+albertsons:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    MONOPOLY_DATE: May 04, 2021
+
+acme:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+    MONOPOLY_DATE: May 04, 2021
+
+carrs:
+  qa2:
+    #monopoly account
+    ios:
+      USERNAME_MONOPOLY: test.monopoly.ios@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    android:
+      USERNAME_MONOPOLY: test.monopoly.and@mail7.io
+      PASSWORD_MONOPOLY: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+    MONOPOLY_DATE: May 04, 2021

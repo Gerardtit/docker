@@ -1,0 +1,68 @@
+tomthumb:
+  qa2:
+    ZIPCODE_REGULAR: 75019
+    ZIPCODE_DEFAULT: "76109"
+    #    USERNAME_REGULAR: swy10@mailinator.com
+    #    PASSWORD_REGULAR: testpwd1
+    INSTORE_STORE: "106 N Denton Tap Rd"
+
+vons:
+  qa2:
+    ZIPCODE_REGULAR: 92110
+    ZIPCODE_DEFAULT: "92110"
+    INSTORE_STORE: "3645 Midway Dr"
+
+acme:
+  qa2:
+    ZIPCODE_DEFAULT: "19057"
+    INSTORE_STORE: "6800 New Falls Rd"
+
+
+jewelosco:
+  qa2:
+    ZIPCODE_DEFAULT: "60640"
+    INSTORE_STORE: "2940 N Ashland Ave"
+
+pavilions:
+  qa2:
+    ZIPCODE_DEFAULT: "90069"
+    INSTORE_STORE: "5949 E Spring St"
+
+  prod:
+    ZIPCODE_DEFAULT: "90069"
+    INSTORE_STORE: "5949 E Spring St"
+
+randalls:
+  qa2:
+    ZIPCODE_DEFAULT: "77024"
+    INSTORE_STORE: "12850 Memorial Dr"
+
+safeway:
+  qa2:
+    ZIPCODE_DEFAULT: "94566"
+    INSTORE_STORE: "6790 Bernal Ave"
+
+shaws:
+  qa2:
+    ZIPCODE_DEFAULT: "03885"
+    INSTORE_STORE: "100 Shaws Ln"
+
+starmarket:
+  qa2:
+    ZIPCODE_DEFAULT: "02199"
+    INSTORE_STORE: "53 Huntington Ave"
+
+carrsqc:
+  qa2:
+    ZIPCODE_DEFAULT: "99645"
+
+  prod:
+    ZIPCODE_DEFAULT: "99645"
+
+albertsons:
+  qa2:
+    ZIPCODE_DEFAULT: "83713"
+    INSTORE_STORE: "4700 N Eagle Rd"
+
+  prod:
+    ZIPCODE_DEFAULT: "83713"

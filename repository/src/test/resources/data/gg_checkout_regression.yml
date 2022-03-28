@@ -1,0 +1,319 @@
+acme:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "08070"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "NA"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "NA"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "08070"
+    STORENAME_PRODUCTS: 251 N Broadway
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "83713"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "NA"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "NA"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "83713"
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "60640"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "NA"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "NA"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "60640"
+    STORENAME_PRODUCTS: 2940 N Ashland Ave
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "90808"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "NA"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "NA"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "90808"
+    STORENAME_PRODUCTS: 5949 E Spring St
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "77024"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "77024"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "12850 Memorial Dr"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "77024"
+    STORENAME_PRODUCTS: 12850 Memorial Dr
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "94566"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "NA"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "NA"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "94566"
+    STORENAME_PRODUCTS: "6790 Bernal Ave"
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "03885"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "NA"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "NA"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "02646"
+    STORENAME_PRODUCTS: 18 Sisson Rd
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "02215"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "NA"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: "NA"
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "02215"
+    STORENAME_PRODUCTS: 33 Kilmarnock St
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "76109"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "76109"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: 3100 S Hulen St
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "76109"
+    STORENAME_PRODUCTS: 3100 S Hulen St
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "92110"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "92110"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: 3645 Midway Dr
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: 3645 Midway Dr
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.checkout.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.checkout.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "99645"
+
+    # zipcode having SNAP-EBT
+    ZIPCODE_SNAP: "99645"
+
+    # DUG Store having SNAP-EBT
+    STORENAME_SNAP: 664 W Evergreen Ave
+
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "99645"
+    STORENAME_PRODUCTS: 664 W Evergreen Ave
+
+    # For Non SNAP product
+    SEARCH_NON_SNAP_KEYWORD: Beer
+
+    #For SNAP product
+    SEARCH_SNAP_KEYWORD: Apple
+
+    SEARCH_PRODUCT_KEYWORD: beef
+

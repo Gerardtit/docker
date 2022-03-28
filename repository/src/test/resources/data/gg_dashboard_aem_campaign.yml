@@ -1,0 +1,178 @@
+tomthumb:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "76109"
+    STORENAME_AEM_CAROUSEL: 3100 S Hulen St
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+    ZIPCODE_DEFAULT: "76109"
+
+vons:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "92110"
+    STORENAME_AEM_CAROUSEL: 3645 Midway Dr
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+    ZIPCODE_DEFAULT: "92110"
+
+starmarket:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "02199"
+    STORENAME_AEM_CAROUSEL: 53 Huntington Ave
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+    ZIPCODE_DEFAULT: "02215"
+
+shaws:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "03885"
+    STORENAME_AEM_CAROUSEL: 100 Shaws Ln
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+    ZIPCODE_DEFAULT: "03885"
+
+safeway:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "94566"
+    STORENAME_AEM_CAROUSEL: 6790 Bernal Ave
+    SHOPPING_MODE_AEM_CAROUSEL: DELIVERY
+    ZIPCODE_DEFAULT: "94566"
+
+randalls:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "77024"
+    STORENAME_AEM_CAROUSEL: 12850 Memorial Dr
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+    ZIPCODE_DEFAULT: "77024"
+
+pavilions:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "90808"
+    STORENAME_AEM_CAROUSEL: 5949 E Spring St
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+    ZIPCODE_DEFAULT: "90808"
+
+jewelosco:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "60640"
+    STORENAME_AEM_CAROUSEL: 2940 N Ashland Ave
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    ZIPCODE_DEFAULT: "60640"
+
+albertsons:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "83713"
+    STORENAME_AEM_CAROUSEL: 4700 N Eagle Rd
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    ZIPCODE_DEFAULT: "83713"
+
+acme:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "08070"
+    STORENAME_AEM_CAROUSEL: 251 N Broadway
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+
+    ZIPCODE_DEFAULT: "08070"
+
+carrs:
+  qa2:
+
+    ios:
+      USERNAME: test.aem.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.aem.and@mail7.io
+      PASSWORD: testpwd1
+
+    # Store details for AEM carousel
+    ZIPCODE_AEM_CAROUSEL: "99645"
+    STORENAME_AEM_CAROUSEL: 664 W Evergreen Ave
+    SHOPPING_MODE_AEM_CAROUSEL: PICKUP
+    ZIPCODE_DEFAULT: "99645"

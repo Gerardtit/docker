@@ -1,0 +1,207 @@
+acme:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+    ZIPCODE_PRODUCTS: "08070"
+    STORENAME_PRODUCTS: 251 N Broadway
+    ZIPCODE_INSTORE: "83713"
+    STORENAME_INSTORE: 4700 N Eagle Rd
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_PRODUCTS: "83713"
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+    ZIPCODE_INSTORE: "60640"
+    STORENAME_INSTORE: 2940 N Ashland Ave
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_PRODUCTS: "60640"
+    STORENAME_PRODUCTS: 2940 N Ashland Ave
+    ZIPCODE_INSTORE: "90808"
+    STORENAME_INSTORE: 5949 E Spring St
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+    ZIPCODE_PRODUCTS: "90808"
+    STORENAME_PRODUCTS: 5949 E Spring St
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+    ZIPCODE_PRODUCTS: "77024"
+    STORENAME_PRODUCTS: 12850 Memorial Dr
+    ZIPCODE_INSTORE: "77024"
+    STORENAME_INSTORE: 12850 Memorial Dr
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_PRODUCTS: "94566"
+    STORENAME_PRODUCTS: 6790 Bernal Ave
+    ZIPCODE_INSTORE: "94566"
+    STORENAME_INSTORE: 6790 Bernal Ave
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+    ZIPCODE_PRODUCTS: "03885"
+    STORENAME_PRODUCTS: 100 Shaws Ln
+    ZIPCODE_INSTORE: "03885"
+    STORENAME_INSTORE: 100 Shaws Ln
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "02199"
+    ZIPCODE_PRODUCTS: "02199"
+    STORENAME_PRODUCTS: 53 Huntington Ave
+    ZIPCODE_INSTORE: "02199"
+    STORENAME_INSTORE: 53 Huntington Ave
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+    ZIPCODE_PRODUCTS: "76109"
+    STORENAME_PRODUCTS: 3100 S Hulen St
+    ZIPCODE_INSTORE: "76109"
+    STORENAME_INSTORE: 3100 S Hulen St
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+vons:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: 3645 Midway Dr
+    ZIPCODE_INSTORE: "92110"
+    STORENAME_INSTORE: 3645 Midway Dr
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.tuto.ios@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.ios@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    android:
+      USERNAME: test.tuto.and@mail7.io
+      PASSWORD: testpwd1
+      USERNAME_TUTORIALS: test.tuto.and@mail7.io
+      PASSWORD_TUTORIALS: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+    ZIPCODE_PRODUCTS: "99645"
+    STORENAME_PRODUCTS: 664 W Evergreen Ave
+    ZIPCODE_INSTORE: "99645"
+    STORENAME_INSTORE: 664 W Evergreen Ave
+    APP_CODE_EVALATTRS_API: "uma"
+    VERSION_EVALATTRS_API: "1.0"

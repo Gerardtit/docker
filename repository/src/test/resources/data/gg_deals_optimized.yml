@@ -1,0 +1,215 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.fp.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.fp.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+
+acme:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+
+      USERNAME: test.fp.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.fp.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "08070"
+
+albertsons:
+  qa2:
+
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+
+      USERNAME: test.fp.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.fp.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "83713"
+
+jewelosco:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.fp.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.fp.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "60640"
+
+pavilions:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+      android:
+        USERNAME_COA: missingitem1@gmail.com
+        PASSWORD_COA: testpwd1
+        CVV: 111
+        COA_amount: 0.01
+
+    #API Data
+    BANNER_API: pavilions
+    ZIP_DELIVERY_API: "90808"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "90808"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "90808"
+
+randalls:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+      android:
+        USERNAME_COA: missingitem1@gmail.com
+        PASSWORD_COA: testpwd1
+        CVV: 111
+        COA_amount: 0.01
+
+safeway:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      tipzero: 0
+      PASSWORD_COA: testpwd1
+      ZIPCODE_DEFAULT: 94566
+      USERNAME: abc123@mail7.io
+      USERNAME_DELIVERYSTATUS: test1@mail7.io
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      INValid_dateOFBirth: 81
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+      PASSWORD_DELIVERYSTATUS: testpwd1
+      APT: 1
+      ZIP: 94566
+      tipAbove20%: $30.00
+      SEARCH_PRODUCT_KEYWORD: bread
+      Address: 105 Castlewood Dr
+      CITY: Pleasanton
+      Desired_Tip: 10%
+      first_name: aaa
+      last_name: sss
+      mobile_number: 9012354123
+    android:
+      USERNAME: abc123@mail7.io
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      INValid_dateOFBirth: 81
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+      USERNAME_DELIVERYSTATUS: test1@mail7.io
+      Address: 105 Castlewood Dr
+      CITY: Pleasanton
+      APT: 1
+      ZIP: 94566
+
+
+CVV: 111
+COA_amount: 0.01
+tipAbove20%: $30.00
+SEARCH_PRODUCT_KEYWORD: bread
+tipzero: 0
+Desired_Tip: 10%
+first_name: aaa
+last_name: sss
+mobile_number: 9012354123
+
+#API Data
+BANNER_API: safeway
+ZIP_DELIVERY_API: "94566"
+DELIVERY_PREF_API: Delivery
+ZIP_PICKUP_API: "94566"
+PICKUP_PREF_API: DriveUp
+
+ZIPCODE_DEFAULT: "94566"
+
+shaws:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+
+
+      CVV: 111
+      COA_amount: 0.01
+      android:
+
+
+        CVV: 111
+        COA_amount: 0.01
+    #API Data
+    BANNER_API: shaws
+    ZIP_DELIVERY_API: "03885"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "03885"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "03885"
+
+starmarket:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+      android:
+        USERNAME_COA: missingitem1@gmail.com
+        PASSWORD_COA: testpwd1
+        CVV: 111
+        COA_amount: 0.01
+    #API Data
+    BANNER_API: starmarket
+    ZIP_DELIVERY_API: "02199"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "02199"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "02199"
+
+vons:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+      android:
+        USERNAME_COA: missingitem1@gmail.com
+        PASSWORD_COA: testpwd1
+        CVV: 111
+        COA_amount: 0.01
+
+    #API Data
+    BANNER_API: vons
+    ZIP_DELIVERY_API: "92110"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "92110"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "92110"

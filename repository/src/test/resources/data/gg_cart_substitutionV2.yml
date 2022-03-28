@@ -1,0 +1,121 @@
+tomthumb:
+  qa2:
+    ZIPCODE_CART_API: "75019"
+    STORENAME_CART_API: "106 N Denton Tap Rd"
+    STOREID_CART_API: "1781"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "75019"
+    STORENAME_SUBV2: "106 N Denton Tap Rd"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+vons:
+  qa2:
+    ZIPCODE_CART_API: "92110"
+    STORENAME_CART_API: "3645 Midway Dr"
+    STOREID_CART_API: "2053"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "92110"
+    STORENAME_SUBV2: "3645 Midway Dr"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+starmarket:
+  qa2:
+    ZIPCODE_CART_API: "92110"
+    STORENAME_CART_API: "33 Kilmarnock St"
+    STOREID_CART_API: "2576"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "TBD"
+    STORENAME_SUBV2: "TBD"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+shaws:
+  qa2:
+    ZIPCODE_CART_API: "03885"
+    STORENAME_CART_API: "100 Shaws Ln"
+    STOREID_CART_API: "621"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "TBD"
+    STORENAME_SUBV2: "TBD"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+safeway:
+  qa2:
+    ZIPCODE_CART_API: "94566"
+    STORENAME_CART_API: "1701 Santa Rita Rd"
+    STOREID_CART_API: "1502"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "94566"
+    STORENAME_SUBV2: "1701 Santa Rita Rd"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: 960555199
+    PRODUCT_2_WITH_SUB: 960555198
+randalls:
+  qa2:
+    ZIPCODE_CART_API: "77024"
+    STORENAME_CART_API: "12850 Memorial Dr"
+    STOREID_CART_API: "1066"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "77024"
+    STORENAME_SUBV2: "12850 Memorial Dr"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+pavilions:
+  qa2:
+    ZIPCODE_CART_API: "90069"
+    STORENAME_CART_API: "8969 Santa Monica Blvd"
+    STOREID_CART_API: "2739"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "90069"
+    STORENAME_SUBV2: "8969 Santa Monica Blvd"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+jewelosco:
+  qa2:
+    ZIPCODE_CART_API: "60640"
+    STORENAME_CART_API: "2940 N Ashland Ave"
+    STOREID_CART_API: "3441"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "60559"
+    STORENAME_SUBV2: "4 E Ogden Ave"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+albertsons:
+  qa2:
+    ZIPCODE_CART_API: "83713"
+    STORENAME_CART_API: "4700 N Eagle Rd"
+    STOREID_CART_API: "177"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "83713"
+    STORENAME_SUBV2: "4700 N Eagle Rd"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+acme:
+  qa2:
+    ZIPCODE_CART_API: "19057"
+    STORENAME_CART_API: "6800 New Falls Rd"
+    STOREID_CART_API: "2977"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "TBD"
+    STORENAME_SUBV2: "TBD"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA
+carrs:
+  qa2:
+    ZIPCODE_CART_API: "99645"
+    STORENAME_CART_API: "664 W Evergreen Ave"
+    STOREID_CART_API: "1739"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "99645"
+    STORENAME_SUBV2: "664 W Evergreen Ave"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    PRODUCT_1_WITH_SUB: TBA
+    PRODUCT_2_WITH_SUB: TBA

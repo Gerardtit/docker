@@ -1,0 +1,186 @@
+acme:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+    ZIPCODE_NO_PAYBANNER: "08070"
+    STORENAME_NO_PAYBANNER: "251 N Broadway"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "08070"
+    STORENAME_PRODUCTS: "251 N Broadway"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_NO_PAYBANNER: "83713"
+    STORENAME_NO_PAYBANNER: "4700 N Eagle Rd"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "83713"
+    STORENAME_PRODUCTS: "4700 N Eagle Rd"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_NO_PAYBANNER: "60640"
+    STORENAME_NO_PAYBANNER: "2940 N Ashland Ave"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "60640"
+    STORENAME_PRODUCTS: "2940 N Ashland Ave"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+    ZIPCODE_NO_PAYBANNER: "92657"
+    STORENAME_NO_PAYBANNER: "21181 Newport Coast Dr"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "90808"
+    STORENAME_PRODUCTS: "5949 E Spring St"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+randalls:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+    ZIPCODE_NO_PAYBANNER: "77024"
+    STORENAME_NO_PAYBANNER: "12850 Memorial Dr"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "77024"
+    STORENAME_PRODUCTS: "12850 Memorial Dr"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+safeway:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_NO_PAYBANNER: "94566"
+    STORENAME_NO_PAYBANNER: "6790 Bernal Ave"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "94566"
+    STORENAME_PRODUCTS: "6790 Bernal Ave"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+shaws:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+    ZIPCODE_NO_PAYBANNER: "03054"
+    STORENAME_NO_PAYBANNER: "7 Continental Blvd"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "03885"
+    STORENAME_PRODUCTS: "100 Shaws Ln"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "02199"
+    ZIPCODE_NO_PAYBANNER: "02199"
+    STORENAME_NO_PAYBANNER: "53 Huntington Ave"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "02199"
+    STORENAME_PRODUCTS: "53 Huntington Ave"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+tomthumb:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+    ZIPCODE_NO_PAYBANNER: "76109"
+    STORENAME_NO_PAYBANNER: "3100 S Hulen St"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "76109"
+    STORENAME_PRODUCTS: "3100 S Hulen St"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+vons:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_NO_PAYBANNER: "92110"
+    STORENAME_NO_PAYBANNER: "3645 Midway Dr"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: "3645 Midway Dr"
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+carrs:
+  qa2:
+    ios:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    android:
+      USERNAME_REWARDS: test.rewards22.ios@mail7.io
+      PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+    ZIPCODE_NO_PAYBANNER: "99645"
+    STORENAME_NO_PAYBANNER: "664 W Evergreen Ave"
+    SHOPPING_MODE_NO_PAYBANNER: "PICKUP"
+    ZIPCODE_PRODUCTS: "99645"
+    STORENAME_PRODUCTS: "664 W Evergreen Ave"
+
+    SEARCH_PRODUCT_KEYWORD: beef

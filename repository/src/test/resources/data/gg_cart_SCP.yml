@@ -1,0 +1,429 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.tom.ios@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638977469094"
+    android:
+      USERNAME_CART_API: test.scp.tom.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638977555571"
+    ZIPCODE_CART_API: "75019"
+    STORENAME_CART_API: "106 N Denton Tap Rd"
+    STOREID_CART_API: "1781"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "75019"
+    STORENAME_SUBV2: "106 N Denton Tap Rd"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_SNAP: "76109"
+    STORENAME_SNAP: "3100 S Hulen St"
+    SNAP_ENABLED: true
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "TBD"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+vons:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.von.ios@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638977555571"
+    android:
+      USERNAME_CART_API: test.scp.von.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638977834944"
+    ZIPCODE_CART_API: "92110"
+    STORENAME_CART_API: "3645 Midway Dr"
+    STOREID_CART_API: "2053"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "92110"
+    STORENAME_SUBV2: "3645 Midway Dr"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_SNAP: "92110"
+    STORENAME_SNAP: "3645 Midway Dr"
+    SNAP_ENABLED: true
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+starmarket:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.sta@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638977834944"
+    android:
+      USERNAME_CART_API: test.scp.sta.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978031225"
+    ZIPCODE_CART_API: "92110"
+    STORENAME_CART_API: "33 Kilmarnock St"
+    STOREID_CART_API: "2576"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "TBD"
+    STORENAME_SUBV2: "TBD"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    SNAP_ENABLED: false
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+shaws:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.sha@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978031225"
+    android:
+      USERNAME_CART_API: test.scp.sha.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978209233"
+    ZIPCODE_CART_API: "03885"
+    STORENAME_CART_API: "100 Shaws Ln"
+    STOREID_CART_API: "621"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "TBD"
+    STORENAME_SUBV2: "TBD"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    SNAP_ENABLED: false
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+safeway:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.saf.ios@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638975314406"
+    android:
+      USERNAME_CART_API: test.scp.saf.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638975617574"
+    ZIPCODE_CART_API: "94566"
+    STORENAME_CART_API: "1701 Santa Rita Rd"
+    STOREID_CART_API: "1502"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "94566"
+    STORENAME_SUBV2: "1701 Santa Rita Rd"
+    ZIPCODE_PROP65: "94566"
+    STORENAME_PROP65: "1701 Santa Rita Rd"
+    SHOPPINGMODE_PROP65: "PICKUP"
+    SNAP_ENABLED: true
+    ZIPCODE_SNAP: "94080"
+    STORENAME_SNAP: "2255 Gellert Blvd"
+    PRODUCT_ID_AGE_RESTRICTED: "189011112"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING: "189011112"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "189011112"
+    RegularProduct: "Milk"
+    BOGOProduct: "0006927607031"
+    MultiDealProduct: "0020307800000"
+    SaveTypeDealProduct: "0020169200000"
+    PersonalisedPricingProduct: "0003700087473"
+    WeighedItemProduct: "0048802027701"
+    PRODUCT_ID_BOGO: "0007255487026"
+    PRODUCT_ID_BOGO_2: "0007343500004"
+    PRODUCT_ID_BOGO_3: "189056426"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+randalls:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.ran.ios@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978310928"
+    android:
+      USERNAME_CART_API: test.scp.ran.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978398017"
+    ZIPCODE_CART_API: "77024"
+    STORENAME_CART_API: "12850 Memorial Dr"
+    STOREID_CART_API: "1066"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "77024"
+    STORENAME_SUBV2: "12850 Memorial Dr"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    SNAP_ENABLED: false
+    PRODUCT_ID_AGE_RESTRICTED: "189011112"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "189053057"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+pavilions:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.pav@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978398017"
+    android:
+      USERNAME_CART_API: test.scp.pav.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978607299"
+    ZIPCODE_CART_API: "90069"
+    STORENAME_CART_API: "8969 Santa Monica Blvd"
+    STOREID_CART_API: "2739"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "90069"
+    STORENAME_SUBV2: "8969 Santa Monica Blvd"
+    ZIPCODE_PROP65: "90069"
+    STORENAME_PROP65: "8969 Santa Monica Blvd"
+    SHOPPINGMODE_PROP65: "PICKUP"
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    SNAP_ENABLED: false
+    PRODUCT_ID_AGE_RESTRICTED: "189011112"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "189053057"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "TBD"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+jewelosco:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.jew@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978717729"
+    android:
+      USERNAME_CART_API: test.scp.jew.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978820195"
+    ZIPCODE_CART_API: "60640"
+    STORENAME_CART_API: "2940 N Ashland Ave"
+    STOREID_CART_API: "3441"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "60559"
+    STORENAME_SUBV2: "4 E Ogden Ave"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    SNAP_ENABLED: false
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+albertsons:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.alb@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978911146"
+    android:
+      USERNAME_CART_API: test.scp.alb.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638978994624"
+    ZIPCODE_CART_API: "83713"
+    STORENAME_CART_API: "4700 N Eagle Rd"
+    STOREID_CART_API: "177"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "83713"
+    STORENAME_SUBV2: "4700 N Eagle Rd"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    SNAP_ENABLED: false
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+acme:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.acm@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638979079033"
+    android:
+      USERNAME_CART_API: test.scp.acm.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638979240986"
+    ZIPCODE_CART_API: "19057"
+    STORENAME_CART_API: "6800 New Falls Rd"
+    STOREID_CART_API: "2977"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "TBD"
+    STORENAME_SUBV2: "TBD"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"
+carrs:
+  qa2:
+    ios:
+      USERNAME_CART_API: test.scp.car@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638979364059"
+    android:
+      USERNAME_CART_API: test.scp.car.and@mail7.io
+      PASSWORD_CART_API: testpwd1
+      CUSTOMERID_CART_API: "557-188-1638979432006"
+    ZIPCODE_CART_API: "99645"
+    STORENAME_CART_API: "664 W Evergreen Ave"
+    STOREID_CART_API: "1739"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_SUBV2: "99645"
+    STORENAME_SUBV2: "664 W Evergreen Ave"
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    PRODUCT_ID_AGE_RESTRICTED: "TBD"
+    PRODUCT_ID_AGE_RESTRICTED_OFFER: "TBD"
+    PRODUCT_ID_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_PROP65_WARNING: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING_OFFER: "NA"
+    PRODUCT_ID_AGE_RESTRICTED_PROP65_WARNING: "NA"
+    RegularProduct: "RegularProduct"
+    BOGOProduct: "BOGOProduct"
+    MultiDealProduct: "MultiDealProduct"
+    SaveTypeDealProduct: "SaveTypeDealProduct"
+    PersonalisedPricingProduct: "PersonalisedPricingProduct"
+    WeighedItemProduct: "WeighedItemProduct"
+    PRODUCT_ID_BOGO: "TBD"
+    PRODUCT_ID_BOGO_2: "TBD"
+    PRODUCT_ID_BOGO_3: "TBD"
+    STORENAME_CLUB_CARD_SAVINGS: "6790 Bernal Ave"
+    ZIPCODE_CLUB_CARD_SAVINGS: "94566"

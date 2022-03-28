@@ -1,0 +1,57 @@
+tomthumb:
+  qa2:
+    ZIPCODE_REGULAR: 75019
+    ZIPCODE_DEFAULT: "76109"
+#    USERNAME_REGULAR: swy10@mailinator.com
+#    PASSWORD_REGULAR: testpwd1
+
+vons:
+  qa2:
+    ZIPCODE_REGULAR: 92110
+    ZIPCODE_DEFAULT: "92110"
+
+acme:
+  qa2:
+    ZIPCODE_DEFAULT: "19057"
+
+
+jewelosco:
+  qa2:
+    ZIPCODE_DEFAULT: "60640"
+
+pavilions:
+  qa2:
+    ZIPCODE_DEFAULT: "90069"
+
+  prod:
+    ZIPCODE_DEFAULT: "90069"
+
+randalls:
+  qa2:
+    ZIPCODE_DEFAULT: "77024"
+
+safeway:
+  qa2:
+    ZIPCODE_DEFAULT: "94566"
+
+shaws:
+  qa2:
+    ZIPCODE_DEFAULT: "03885"
+
+starmarket:
+  qa2:
+    ZIPCODE_DEFAULT: "02199"
+
+carrsqc:
+  qa2:
+    ZIPCODE_DEFAULT: "99645"
+
+  prod:
+    ZIPCODE_DEFAULT: "99645"
+
+albertsons:
+  qa2:
+    ZIPCODE_DEFAULT: "83713"
+
+  prod:
+    ZIPCODE_DEFAULT: "83713"

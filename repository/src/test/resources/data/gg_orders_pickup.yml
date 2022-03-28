@@ -1,0 +1,236 @@
+acme:
+  qa2:
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "08070"
+    ZIPCODE_DEFAULT: "08070"
+    STORENAME_PRODUCTS: 251 N Broadway
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+albertsons:
+  qa2:
+    ZIPCODE_DEFAULT: "83713"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "83713"
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+jewelosco:
+  qa2:
+    ZIPCODE_DEFAULT: "60640"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "60640"
+    STORENAME_PRODUCTS: 2940 N Ashland Ave
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+pavilions:
+  qa2:
+    ZIPCODE_DEFAULT: "90808"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "90808"
+    STORENAME_PRODUCTS: 5949 E Spring St
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+randalls:
+  qa2:
+    ZIPCODE_DEFAULT: "77204"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "77024"
+    STORENAME_PRODUCTS: 12850 Memorial Dr
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+safeway:
+  qa2:
+    ZIPCODE_DEFAULT: "94566"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "94566"
+    STORENAME_PRODUCTS: 6790 Bernal Ave
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+      ZIPCODE_PICKUPSTATUSTHREE: 94550
+      ZIPCODE_PICKUPSTATUSFOUR: 94551
+      ZIPCODE_PICKUPSTATUSTWO: 94568
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+      ZIPCODE_PICKUPSTATUSTHREE: 94550
+      ZIPCODE_PICKUPSTATUSFOUR: 94551
+      ZIPCODE_PICKUPSTATUSTWO: 94568
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+shaws:
+  qa2:
+    ZIPCODE_DEFAULT: "03885"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "03885"
+    STORENAME_PRODUCTS: 100 Shaws Ln
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+starmarket:
+  qa2:
+    ZIPCODE_DEFAULT: "02199"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "02199"
+    STORENAME_PRODUCTS: 53 Huntington Ave
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+tomthumb:
+  qa2:
+    ZIPCODE_DEFAULT: "76109"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "76109"
+    STORENAME_PRODUCTS: 3100 S Hulen St
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+vons:
+  qa2:
+    ZIPCODE_DEFAULT: "92110"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: 3645 Midway Dr
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef
+
+carrs:
+  qa2:
+    ZIPCODE_DEFAULT: "99645"
+    # Store details for products in browse tab
+    ZIPCODE_PRODUCTS: "99645"
+    STORENAME_PRODUCTS: 664 W Evergreen Ave
+
+    # User for pickup orders
+    ios:
+      USERNAME_PICKUPSTATUS: test.pickup1.ios@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PICKUPSTATUS: test.pickup1.and@mail7.io
+      PASSWORD_PICKUPSTATUS: testpwd1
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    SEARCH_PRODUCT_KEYWORD: beef

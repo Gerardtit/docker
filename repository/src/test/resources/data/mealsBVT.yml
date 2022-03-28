@@ -1,0 +1,108 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+acme:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "02215"
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.weeklyad.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.weeklyad.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "99645"

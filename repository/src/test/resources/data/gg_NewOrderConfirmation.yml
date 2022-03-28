@@ -1,0 +1,204 @@
+acme:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: acme
+    ZIP_DELIVERY_API: "08070"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "08070"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "08070"
+
+albertsons:
+  qa2:
+
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: albertsons
+    ZIP_DELIVERY_API: "83713"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "83713"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "83713"
+
+jewelosco:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: jewelosco
+    ZIP_DELIVERY_API: "60640"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "60640"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "60640"
+
+pavilions:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: pavilions
+    ZIP_DELIVERY_API: "90808"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "90808"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "90808"
+
+randalls:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: randalls
+    ZIP_DELIVERY_API: "77024"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "77024"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "77024"
+
+safeway:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: safeway
+    ZIP_DELIVERY_API: "94566"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "94566"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "94566"
+
+shaws:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: shaws
+    ZIP_DELIVERY_API: "03885"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "03885"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "03885"
+
+starmarket:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: starmarket
+    ZIP_DELIVERY_API: "02199"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "02199"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "02199"
+
+tomthumb:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: tomthumb
+    ZIP_DELIVERY_API: "76109"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "76109"
+    PICKUP_PREF_API: DriveUp
+
+
+    ZIPCODE_DEFAULT: "76109"
+
+    ADDRESSLINE2: "420 Dillard Ln"
+    ADDRESSLINE3: "1306 jennings Ct"
+    ADDRESSLINE4: "337 Parkway Blvd"
+    ADDRESSLINE5: "416 N Moore Rd"
+    ADDRESSLINE6: "913 Blue Jay Ln"
+    ADDRESSLINE7: "165 Glendale Dr"
+    ADDRESSLINE8: "312 Brushy Creek Trl"
+    ADDRESSLINE9: "574 Villawood Ln"
+    ADDRESSLINE10: "606 Castle Creek Dr"
+    ADDRESSLINE11: "519 Woodhurst Dr"
+    ADDRESSLINE12: "412 Cooper Ln"
+    ADDRESSLINE13: "473 Leisure Ln"
+
+vons:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+
+    #API Data
+    BANNER_API: vons
+    ZIP_DELIVERY_API: "92110"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "92110"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "92110"

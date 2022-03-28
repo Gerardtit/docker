@@ -1,0 +1,275 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "75019"
+    STORENAME_BUY_AGAIN: 106 N Denton Tap Rd
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "76109"
+    STORENAME_MUST_HAVE_GRABS: 3100 S Hulen St
+
+    ZIPCODE_DEFAULT: "76019"
+
+vons:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "92110"
+    STORENAME_BUY_AGAIN: 3645 Midway Dr
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "92110"
+    STORENAME_MUST_HAVE_GRABS: 3645 Midway Dr
+
+    ZIPCODE_DEFAULT: "92110"
+
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "02199"
+    STORENAME_BUY_AGAIN: 53 Huntington Ave
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "02215"
+    STORENAME_MUST_HAVE_GRABS: 33 Kilmarnock St
+
+    ZIPCODE_DEFAULT: "02215"
+
+shaws:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "03885"
+    STORENAME_BUY_AGAIN: 100 Shaws Ln
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "03885"
+    STORENAME_MUST_HAVE_GRABS: 100 Shaws Ln
+
+    ZIPCODE_DEFAULT: "03885"
+
+safeway:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "94566"
+    STORENAME_BUY_AGAIN: 1701 Santa Rita Rd
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "94566"
+    STORENAME_MUST_HAVE_GRABS: 6790 Bernal Ave
+
+    ZIPCODE_DEFAULT: "94566"
+
+randalls:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "77024"
+    STORENAME_BUY_AGAIN: 12850 Memorial Dr
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "77024"
+    STORENAME_MUST_HAVE_GRABS: 12850 Memorial Dr
+
+    ZIPCODE_DEFAULT: "77024"
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "90808"
+    STORENAME_BUY_AGAIN: 5949 E Spring St
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "90808"
+    STORENAME_MUST_HAVE_GRABS: 5949 E Spring St
+
+    ZIPCODE_DEFAULT: "90808"
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "60640"
+    STORENAME_BUY_AGAIN: 2940 N Ashland Ave
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "60640"
+    STORENAME_MUST_HAVE_GRABS: 2940 N Ashland Ave
+
+    ZIPCODE_DEFAULT: "60640"
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "83713"
+    STORENAME_BUY_AGAIN: 4700 N Eagle Rd
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "83713"
+    STORENAME_MUST_HAVE_GRABS: 4700 N Eagle Rd
+
+    ZIPCODE_DEFAULT: "83713"
+
+acme:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "08070"
+    STORENAME_BUY_AGAIN: 251 N Broadway
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "08070"
+    STORENAME_MUST_HAVE_GRABS: 251 N Broadway
+
+    ZIPCODE_DEFAULT: "08070"
+
+carrs:
+  qa2:
+    ios:
+      USERNAME_PURCHASEHISTORY: test.purchase.ios@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.ios@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+    android:
+      USERNAME_PURCHASEHISTORY: test.purchase.and@mail7.io
+      PASSWORD_PURCHASEHISTORY: testpwd1
+
+      USERNAME_NOPURCHASEHISTORY: test.nopurchase.and@mail7.io
+      PASSWORD_NOPURCHASEHISTORY: testpwd1
+
+    # Store details for Buy it again
+    ZIPCODE_BUY_AGAIN: "99645"
+    STORENAME_BUY_AGAIN: 664 W Evergreen Ave
+
+    # Store details for Must-have grabs
+    ZIPCODE_MUST_HAVE_GRABS: "99645"
+    STORENAME_MUST_HAVE_GRABS: 664 W Evergreen Ave
+
+    ZIPCODE_DEFAULT: "99645"

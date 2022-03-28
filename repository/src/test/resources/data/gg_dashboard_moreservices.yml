@@ -1,0 +1,219 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: "76109"
+    STORENAME_FUEL_PHARMACY: 3100 S Hulen St
+    SHOPPING_MODE_FUEL_PHARMACY: PICKUP
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "76109"
+    STORENAME_PHARMACY: 3100 S Hulen St
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+acme:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: NA
+    STORENAME_FUEL_PHARMACY: NA
+    SHOPPING_MODE_FUEL_PHARMACY: NA
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "19057"
+    STORENAME_PHARMACY: "6800 New Falls Rd"
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: "83713"
+    STORENAME_FUEL_PHARMACY: 4700 N Eagle Rd
+    SHOPPING_MODE_FUEL_PHARMACY: PICKUP
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "83713"
+    STORENAME_PHARMACY: 4700 N Eagle Rd
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: NA
+    STORENAME_FUEL_PHARMACY: NA
+    SHOPPING_MODE_FUEL_PHARMACY: NA
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "60640"
+    STORENAME_PHARMACY: 2940 N Ashland Ave
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: NA
+    STORENAME_FUEL_PHARMACY: NA
+    SHOPPING_MODE_FUEL_PHARMACY: NA
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "90808"
+    STORENAME_PHARMACY: 5949 E Spring St
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: "77024"
+    STORENAME_FUEL_PHARMACY: 12850 Memorial Dr
+    SHOPPING_MODE_FUEL_PHARMACY: PICKUP
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "77024"
+    STORENAME_PHARMACY: 12850 Memorial Dr
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: "94566"
+    STORENAME_FUEL_PHARMACY: 6790 Bernal Ave
+    SHOPPING_MODE_FUEL_PHARMACY: PICKUP
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "94566"
+    STORENAME_PHARMACY: 6790 Bernal Ave
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: NA
+    STORENAME_FUEL_PHARMACY: NA
+    SHOPPING_MODE_FUEL_PHARMACY: NA
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "03885"
+    STORENAME_PHARMACY: 100 Shaws Ln
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "02215"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: NA
+    STORENAME_FUEL_PHARMACY: NA
+    SHOPPING_MODE_FUEL_PHARMACY: NA
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "02138"
+    STORENAME_PHARMACY: 699 Mt Auburn St
+    SHOPPING_MODE_PHARMACY: INSTORE
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: "92110"
+    STORENAME_FUEL_PHARMACY: 3645 Midway Dr
+    SHOPPING_MODE_FUEL_PHARMACY: PICKUP
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "92110"
+    STORENAME_PHARMACY: 3645 Midway Dr
+    SHOPPING_MODE_PHARMACY: PICKUP
+
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.moreservice.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.moreservice.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "99645"
+
+    # Store with both fuel and pharmacy services
+    ZIPCODE_FUEL_PHARMACY: "99645"
+    STORENAME_FUEL_PHARMACY: 664 W Evergreen Ave
+    SHOPPING_MODE_FUEL_PHARMACY: PICKUP
+
+    # Store with pharmacy service
+    ZIPCODE_PHARMACY: "99645"
+    STORENAME_PHARMACY: 664 W Evergreen Ave
+    SHOPPING_MODE_PHARMACY: PICKUP

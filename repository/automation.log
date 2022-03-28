@@ -1,0 +1,51 @@
+pipeline {
+    agent any 
+    parameters {
+        string(name: 'fromBuild', defaultValue: '', description: 'Build')
+        string(name: 'banner', defaultValue: 'Safeway', description: 'Which banner will be tested')
+        choice(name: 'runners', choices: ['1', '2', '3', '4', '5'], description: 'Amount of runners for testing our application')
+        booleanParam (name: 'executeTests', defaultValue: true, description: '')
+    }
+    stages {
+        stage ("copy") {
+            steps {
+                echo 'Copying necessary files to test'
+                //sh 'cp repository'
+                //sh 'cp docker image'
+            }
+        }
+        stage ("test execution") {
+            when {
+                expression {
+                   params.executeTests
+                }
+            }
+            steps {
+                script {
+                    build job: 'RunnerAndroid',
+                    parameters: [
+                        [$class: 'StringParameterValue', name: 'suite', value: 'cart']
+                    ]
+                }
+            }
+        }
+    }
+    
+}
+
+
+pipeline {
+    agent any 
+    parameters {
+        string(name: 'suite', defaultValue: 'Cart', description: 'Which will be executed')
+    }
+    stages {
+        stage ("Run") {
+            steps {
+                echo 'Copying necessary files to test'
+                //sh 'cp repository'
+                //sh 'cp docker image'
+            }
+        }
+    }
+}

@@ -1,0 +1,273 @@
+acme:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+    android:
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+
+    #API Data
+    BANNER_API: acme
+    ZIP_DELIVERY_API: "08070"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "08070"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "08070"
+    BOGO_CATEGORY: ""
+
+albertsons:
+  qa2:
+
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+      android:
+        USERNAME_COA: missingitem1@gmail.com
+        PASSWORD_COA: testpwd1
+        CVV: 111
+        COA_amount: 0.01
+    #API Data
+    BANNER_API: albertsons
+    ZIP_DELIVERY_API: "83713"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "83713"
+    PICKUP_PREF_API: DriveUp
+    BOGO_CATEGORY: ""
+    ZIPCODE_DEFAULT: "83713"
+
+jewelosco:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+    android:
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+    #API Data
+    BANNER_API: jewelosco
+    ZIP_DELIVERY_API: "60640"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "60640"
+    PICKUP_PREF_API: DriveUp
+    INSTORE_STORE: "2940 N Ashland Ave"
+    BOGO_CATEGORY: "Cookies, Snacks & Candy"
+    ZIPCODE_DEFAULT: "60640"
+
+pavilions:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+      android:
+        USERNAME_COA: missingitem1@gmail.com
+        PASSWORD_COA: testpwd1
+        CVV: 111
+        COA_amount: 0.01
+
+    #API Data
+    BANNER_API: pavilions
+    ZIP_DELIVERY_API: "90808"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "90808"
+    PICKUP_PREF_API: DriveUp
+    BOGO_CATEGORY: "Cookies, Snacks & Candy"
+    ZIPCODE_DEFAULT: "90808"
+
+randalls:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+    android:
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+
+safeway:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      tipzero: 0
+      PASSWORD_COA: testpwd1
+      ZIPCODE_DEFAULT: 94566
+      USERNAME_NOITEMSINCART: item3@mail7.io
+      USERNAME_DELIVERYSTATUS: newfp@mail7.io
+      USERNAME_ORDERPLACED: order_ios@mail7.io
+      USERNAME_REENROLL: reenroll2@mail7.io
+      USERNAME_ANNUAL: annualus6@mail7.io
+      USERNAME_MONTHLY: monthlyios1@mail7.io
+      USERNAME_PENCANCELLATION: pencancellation.ios3@mail7.io
+      USERNAME_SUSPEND: suspend.ios1@mail7.io
+
+      PASSWORD_DELIVERYSTATUS: testpwd1
+      APT: 1
+      ZIP: 94566
+      tipAbove20%: $30.00
+      SEARCH_PRODUCT_KEYWORD: bread
+      Address: 105 Castlewood Dr
+      CITY: Pleasanton
+      Desired_Tip: 10%
+      first_name: aaa
+      last_name: sss
+      mobile_number: 9012354123
+    android:
+
+      USERNAME: abc123@mail7.io
+      USERNAME_ANNUAL: test.ann.ios@mail7.io
+      USERNAME_ORDERPLACED: order_ios@mail7.io
+      USERNAME_REENROLL: reenroll2@mail7.io
+      #      USERNAME_ANNUAL: annualus6@mail7.io
+      USERNAME_MONTHLY: monthlyios1@mail7.io
+      USERNAME_PENCANCELLATION: pencancellation.ios3@mail7.io
+      USERNAME_SUSPEND: suspend.ios1@mail7.io
+      Address: 105 Castlewood Dr
+      CITY: Pleasanton
+      APT: 1
+      ZIP: 94566
+      CVV: 111
+      COA_amount: 0.01
+      tipAbove20%: $30.00
+      SEARCH_PRODUCT_KEYWORD: bread
+      tipzero: 0
+      Desired_Tip: 10%
+      first_name: aaa
+      last_name: sss
+      mobile_number: 9012354123
+      USERNAME_suspended: asuspuser11@mailinator.com
+#API Data
+BANNER_API: safeway
+ZIP_DELIVERY_API: "94566"
+DELIVERY_PREF_API: Delivery
+ZIP_PICKUP_API: "94566"
+PICKUP_PREF_API: DriveUp
+
+  ZIPCODE_DEFAULT: "94566"
+
+shaws:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      CVV: 111
+      COA_amount: 0.01
+    android:
+      CVV: 111
+      COA_amount: 0.01
+    #API Data
+    BANNER_API: shaws
+    ZIP_DELIVERY_API: "03885"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "03885"
+    PICKUP_PREF_API: DriveUp
+    BOGO_CATEGORY: "Cookies, Snacks & Candy"
+    ZIPCODE_DEFAULT: "03885"
+
+starmarket:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+    android:
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+    #API Data
+    BANNER_API: starmarket
+    ZIP_DELIVERY_API: "02199"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "02199"
+    PICKUP_PREF_API: DriveUp
+    BOGO_CATEGORY: "Cookies, Snacks & Candy"
+    ZIPCODE_DEFAULT: "02199"
+
+tomthumb:
+  qa2:
+    #   bundleId : com.tomthumb.j4u.ent
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      #      USERNAME_COA: missingitem1@gmail.com
+      #      PASSWORD_COA: testpwd1
+
+      USERNAME_COA: tips1@yopmail.com
+      PASSWORD_COA: testpwd1
+      ZIPCODE_DEFAULT: 76109
+      CVV: 111
+      COA_amount: 0.01
+      first_name: aaa
+      last_name: sss
+      mobile_number: 9012354123
+      Address: 2551 , Hall Johnson Road
+      APT: 612
+      ZIP: 76051
+    android:
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+
+    #API Data
+    BANNER_API: tomthumb
+    ZIP_DELIVERY_API: "76109"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "76109"
+    PICKUP_PREF_API: DriveUp
+    BOGO_CATEGORY: "Personal Care & Health"
+    ZIPCODE_DEFAULT: "76109"
+    INSTORE_STORE: "106 N Denton Tap Rd"
+vons:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@hostux.ninja
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+    android:
+      USERNAME_COA: missingitem1@gmail.com
+      PASSWORD_COA: testpwd1
+      CVV: 111
+      COA_amount: 0.01
+
+    #API Data
+    BANNER_API: vons
+    ZIP_DELIVERY_API: "92110"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "92110"
+    PICKUP_PREF_API: DriveUp
+    INSTORE_STORE: "3645 Midway Dr"
+    BOGO_CATEGORY: "Personal Care & Health"
+    ZIPCODE_DEFAULT: "92110"

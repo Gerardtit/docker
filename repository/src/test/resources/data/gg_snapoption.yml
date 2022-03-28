@@ -1,0 +1,221 @@
+aacme:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: acme
+    ZIP_DELIVERY_API: "08070"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "08070"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "08070"
+
+albertsons:
+  qa2:
+
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: albertsons
+    ZIP_DELIVERY_API: "83713"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "83713"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "83713"
+
+jewelosco:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: jewelosco
+    ZIP_DELIVERY_API: "60640"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "60640"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "60640"
+
+pavilions:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: pavilions
+    ZIP_DELIVERY_API: "90808"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "90808"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "90808"
+
+randalls:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: randalls
+    ZIP_DELIVERY_API: "77024"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "77024"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "77024"
+
+safeway:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      #      USERNAME: test.items.ios@mail7.io
+      USERNAME: safeway1229@yahoo.com
+      PASSWORD: testpwd1
+      CVV: 111
+    android:
+      USERNAME: test.items.2001@mail7.io
+      PASSWORD: testpwd1
+      CVV: 111
+
+    #API Data
+    BANNER_API: safeway
+    ZIP_DELIVERY_API: "94566"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "94566"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "94566"
+
+shaws:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: shaws
+    ZIP_DELIVERY_API: "03885"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "03885"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "03885"
+
+starmarket:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: starmarket
+    ZIP_DELIVERY_API: "02199"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "02199"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "02199"
+
+tomthumb:
+  qa2:
+    #   bundleId : com.tomthumb.j4u.ent
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.ios.756@mail7.io
+      #      USERNAME: tracktest@yopmail.com
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 450
+      CVV: 111
+      first_name: aaa
+      last_name: sss
+      mobile_number: 9012354123
+    android:
+      USERNAME: test3002@mail7.io
+      #      USERNAME: monthlyfp-an@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+      CVV: 111
+      first_name: aaa
+      last_name: sss
+      mobile_number: 9012354123
+
+    #API Data
+    BANNER_API: tomthumb
+    ZIP_DELIVERY_API: "76109"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "76109"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "76109"
+vons:
+  qa2:
+    # Users which has "item you may buy" and "item you may like" data
+    ios:
+      USERNAME: test.items.ios@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+    android:
+      USERNAME: test.items.and@mail7.io
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 960
+
+    #API Data
+    BANNER_API: vons
+    ZIP_DELIVERY_API: "92110"
+    DELIVERY_PREF_API: Delivery
+    ZIP_PICKUP_API: "92110"
+    PICKUP_PREF_API: DriveUp
+
+    ZIPCODE_DEFAULT: "92110"

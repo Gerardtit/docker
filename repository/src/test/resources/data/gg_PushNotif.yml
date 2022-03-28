@@ -1,0 +1,187 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      URI: "https://messaging.localytics.com/v2/push/9bd2207071fbef0e004be2b-310a8086-ce4c-11e7-104c-007c928ca240"
+      USER: "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      PASSWORD: "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      URI: ""
+      USER: "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      PASSWORD: "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_REGULAR: 75019
+    ZIPCODE_DEFAULT: "76109"
+    BOGO_CATEGORY: "Meat & Seafood"
+    APP_BACKGROUND_RUNTIME: 5
+
+vons:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_REGULAR: 92110
+    ZIPCODE_DEFAULT: "92110"
+    BOGO_CATEGORY: "Cookies, Snacks & Candy"
+    APP_BACKGROUND_RUNTIME: 5
+
+acme:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "19057"
+    BOGO_CATEGORY: "Condiments, Spice & Bake"
+    APP_BACKGROUND_RUNTIME: 5
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": "https://messaging.localytics.com/v2/push/e7656da7eea146d151c9220-fdc42834-e12b-11e7-779c-007c928ca240"
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": "99a80883a7d51912e0968d9-60232e9c-d580-11e7-886f-007c928ca240"
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "60640"
+    BOGO_CATEGORY: "Meat & Seafood"
+    APP_BACKGROUND_RUNTIME: 5
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "90069"
+    BOGO_CATEGORY: "Condiments, Spice & Bake"
+    APP_BACKGROUND_RUNTIME: 5
+
+  prod:
+    ZIPCODE_DEFAULT: "90069"
+    APP_BACKGROUND_RUNTIME: 5
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "77024"
+    APP_BACKGROUND_RUNTIME: 5
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": "https://messaging.localytics.com/v2/push/f41449ffee808f415cf804f-e370005a-b8f2-11e7-6f2c-007c928ca240"
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": "https://messaging.localytics.com/v2/push/a6aa4015dd12119e7bef705-b8064538-c392-11e7-7939-007c928ca240"
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "94566"
+    BOGO_CATEGORY: "Beverages"
+    APP_BACKGROUND_RUNTIME: 5
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "03885"
+    BOGO_CATEGORY: "Condiments, Spice & Bake"
+    APP_BACKGROUND_RUNTIME: 5
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "02199"
+    APP_BACKGROUND_RUNTIME: 5
+
+carrsqc:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": ""
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "99645"
+    BOGO_CATEGORY: "Personal Care & Health"
+    APP_BACKGROUND_RUNTIME: 5
+
+  prod:
+    ZIPCODE_DEFAULT: "99645"
+    APP_BACKGROUND_RUNTIME: 5
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: pushnotif@mail7.io
+      "URI": "https://messaging.localytics.com/v2/push/08dae1d2f110170405623d1-76a8677a-ce4b-11e7-104c-007c928ca240"
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    android:
+      USERNAME: pushnotif@mail7.io
+      "URI": "https://messaging.localytics.com/v2/push/fbe56a9d1b0f10fb058e3ab-a7af4398-d55a-11e7-1ecf-007c928ca240"
+      "USER": "5180e3f3b1ba9ddad812234-b8864fae-a788-11e7-9988-007c928ca240"
+      "PASSWORD": "4524b1fe64159617b63b6ac-b88655e2-a788-11e7-9988-007c928ca240"
+    ZIPCODE_DEFAULT: "83713"
+    BOGO_CATEGORY: "Fruits & Vegetables"
+    APP_BACKGROUND_RUNTIME: 5
+
+  prod:
+    ZIPCODE_DEFAULT: "83713"
+    APP_BACKGROUND_RUNTIME: 5

@@ -1,0 +1,226 @@
+tomthumb:
+  qa2:
+    ios:
+
+      USERNAME_REWARDS: rwdttios1@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rwdttand1@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_REWARDSEOM: Rwd.tt.android1@mail7.io
+      USERNAME_POINTS: pointsuser@mail7.io
+
+
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "76109"
+
+vons:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewards1iosvon@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andvon@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "92110"
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewardsiossta@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andsta@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "02215"
+
+shaws:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewards1iossha@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andsha@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "03885"
+
+safeway:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rwdswy89@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_REWARDSEOM: rwdexpiry@mail7.io
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewardsswyand1@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_REWARDSEOM: rwdexpiry@mail7.io
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "94566"
+
+randalls:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewards1iosran@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andran@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "77024"
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewards1iospav@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andpav@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "90808"
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewards1iosjew@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andjew@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "60640"
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewardiosalb41@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andalb@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "83713"
+
+acme:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewards1iosacm@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andacm@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "08070"
+
+carrs:
+  qa2:
+    ios:
+      USERNAME_REWARDS: rewards1ioscar@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.ios@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+      USERNAME_POINTS: pointsuser@mail7.io
+
+    android:
+      USERNAME_REWARDS: rewards1andcar@mail7.io
+      PASSWORD_REWARDS: testpwd1
+      USERNAME_NOREWARDS: test.norewards.and@hostux.ninja
+      PASSWORD_NOREWARDS: testpwd1
+    USERNAME_REWARDS_BALANCE_DEFAULT: test1.rewards1.and.alb@mail7.io
+    PASSWORD_REWARDS_BALANCE_DEFAULT: test1pwd1
+
+    ZIPCODE_DEFAULT: "99645"

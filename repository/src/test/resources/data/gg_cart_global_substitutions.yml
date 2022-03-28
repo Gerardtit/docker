@@ -1,0 +1,284 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.tomthumb@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.tomthumb@mail7.io
+    ZIPCODE_CART_API: "75019"
+    STORENAME_CART_API: "106 N Denton Tap Rd"
+    STOREID_CART_API: "1781"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: true
+    ZIPCODE_SNAP: "76109"
+    STORENAME_SNAP: "3100 S Hulen St"
+    ZIPCODE_SNAP_PROP65: "76109"
+    STORENAME_SNAP_PROP65: "3100 S Hulen St"
+vons:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.von@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.von@mail7.io
+    ZIPCODE_CART_API: "92110"
+    STORENAME_CART_API: "3645 Midway Dr"
+    STOREID_CART_API: "2053"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: 3645 Midway Dr
+    ZIPCODE_INSTORE: "92110"
+    ZIPCODE_DIFFERENT: "92117"
+    STORENAME_DIFFERENT: 4725 Clairemont Dr
+    STORENAME_INSTORE: 3645 Midway Dr
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: true
+    ZIPCODE_SNAP: "92110"
+    STORENAME_SNAP: "3645 Midway Dr"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.starmarket@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.starmarket@mail7.io
+    ZIPCODE_CART_API: "92110"
+    STORENAME_CART_API: "33 Kilmarnock St"
+    STOREID_CART_API: "2576"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.shaws@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.shaws@mail7.io
+    ZIPCODE_CART_API: "03885"
+    STORENAME_CART_API: "100 Shaws Ln"
+    STOREID_CART_API: "621"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.safeway@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.safeway@mail7.io
+    ZIPCODE_CART_API: "94566"
+    STORENAME_CART_API: "1701 Santa Rita Rd"
+    STOREID_CART_API: "1502"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "94566"
+    STORENAME_PROP65: "1701 Santa Rita Rd"
+    SHOPPINGMODE_PROP65: "PICKUP"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: true
+    ZIPCODE_SNAP: "94611"
+    STORENAME_SNAP: "5100 Broadway"
+    ZIPCODE_SNAP_PROP65: "94611"
+    STORENAME_SNAP_PROP65: "5100 Broadway"
+    ZIPCODE_DIFFERENT: "95035"
+    STORENAME_CART_OUT_OF_STOCK: "6790 Bernal Ave"
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.randalls@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.randalls@mail7.io
+    ZIPCODE_CART_API: "77024"
+    STORENAME_CART_API: "12850 Memorial Dr"
+    STOREID_CART_API: "1066"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.pavilions@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.pavilions@mail7.io
+    ZIPCODE_CART_API: "90069"
+    STORENAME_CART_API: "8969 Santa Monica Blvd"
+    STOREID_CART_API: "2739"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "90069"
+    STORENAME_PROP65: "8969 Santa Monica Blvd"
+    SHOPPINGMODE_PROP65: "PICKUP"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.jewelosco@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.jewelosco@mail7.io
+    ZIPCODE_CART_API: "60640"
+    STORENAME_CART_API: "2940 N Ashland Ave"
+    STOREID_CART_API: "3441"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.albertsons@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.albertsons@mail7.io
+    ZIPCODE_CART_API: "83713"
+    STORENAME_CART_API: "4700 N Eagle Rd"
+    STOREID_CART_API: "177"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+acme:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.acme@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.acme@mail7.io
+    ZIPCODE_CART_API: "19057"
+    STORENAME_CART_API: "6800 New Falls Rd"
+    STOREID_CART_API: "2977"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.ios.carrs@mail7.io
+    android:
+      USERNAME: test.cart@mail7.io
+      USERNAME_NOITEMSINCART: test.mylist.noitemsincart.and.carrs@mail7.io
+    ZIPCODE_CART_API: "99645"
+    STORENAME_CART_API: "664 W Evergreen Ave"
+    STOREID_CART_API: "1739"
+    ACCESS_TOKEN_HOST_URL: "https://abs-qa1.oktapreview.com"
+    SEARCH_PRODUCT_KEYWORD: Butter
+    ZIPCODE_PROP65: "NA"
+    STORENAME_PROP65: "NA"
+    SHOPPINGMODE_PROP65: "NA"
+    ZIPCODE_CART_2: "94566"
+    STORENAME_CART_2: "1701 Santa Rita Rd"
+    ZIPCODE_CART_NO_STOCK: "95054"
+    STORENAME_CART_NO_STOCK: "3970 Rivermark Plaza"
+    SNAP_ENABLED: false
+    ZIPCODE_SNAP: "NA"
+    STORENAME_SNAP: "NA"
+    ZIPCODE_SNAP_PROP65: "NA"
+    STORENAME_SNAP_PROP65: "NA"

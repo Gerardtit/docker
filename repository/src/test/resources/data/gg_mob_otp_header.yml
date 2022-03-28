@@ -1,0 +1,119 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "76109"
+    ZIPCODE_PRODUCTS: "76109"
+    STORENAME_PRODUCTS: 3100 S Hulen St
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: 3645 Midway Dr
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "02199"
+    ZIPCODE_PRODUCTS: "02199"
+    STORENAME_PRODUCTS: 53 Huntington Ave
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "02646"
+    ZIPCODE_PRODUCTS: "02646"
+    STORENAME_PRODUCTS: 18 Sisson Rd
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_PRODUCTS: "94566"
+    STORENAME_PRODUCTS: 6790 Bernal Ave
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "77024"
+    ZIPCODE_PRODUCTS: "77024"
+    STORENAME_PRODUCTS: 12850 Memorial Dr
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "90808"
+    ZIPCODE_PRODUCTS: "90808"
+    STORENAME_PRODUCTS: 5949 E Spring St
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_PRODUCTS: "60640"
+    STORENAME_PRODUCTS: 2940 N Ashland Ave
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_PRODUCTS: "83713"
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+
+acme:
+  qa2:
+    ios:
+      USERNAME: test.mob.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.mob.and@mail7.io
+      PASSWORD: testpwd1
+    ZIPCODE_DEFAULT: "08070"
+    ZIPCODE_PRODUCTS: "08070"
+    STORENAME_PRODUCTS: 251 N Broadway

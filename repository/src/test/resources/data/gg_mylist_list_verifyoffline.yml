@@ -1,0 +1,34 @@
+tomthumb:
+  qa2:
+    ITEM_NAME: "Bread"
+vons:
+  qa2:
+    ITEM_NAME: "Bread"
+starmarket:
+  qa2:
+    ITEM_NAME: "Bread"
+shaws:
+  qa2:
+    ITEM_NAME: "Bread"
+safeway:
+  qa2:
+    ITEM_NAME: "Bread"
+
+randalls:
+  qa2:
+    ITEM_NAME: "Bread"
+pavilions:
+  qa2:
+    ITEM_NAME: "Bread"
+jewelosco:
+  qa2:
+    ITEM_NAME: "Bread"
+albertsons:
+  qa2:
+    ITEM_NAME: "Bread"
+acme:
+  qa2:
+    ITEM_NAME: "Bread"
+carrs:
+  qa2:
+    ITEM_NAME: "Bread"

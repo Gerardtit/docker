@@ -1,0 +1,210 @@
+tomthumb:
+  qa2:
+
+    ZIPCODE_DEFAULT: "75019"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "106 N Denton Tap Rd"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+vons:
+  qa2:
+    ZIPCODE_DEFAULT: "92110"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "3645 Midway Dr"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+acme:
+  qa2:
+    ZIPCODE_DEFAULT: "19057"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "6800 New Falls Rd"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+jewelosco:
+  qa2:
+    ZIPCODE_DEFAULT: "60640"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "2940 N Ashland Ave"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+  <<<<<<< HEAD
+  =======
+PASSWORD: testpwd1
+
+prod:
+  ZIPCODE_DEFAULT: "60640"
+  USERNAME_REGULAR: swy10@mail7.io
+  USERNAME_MFA: swy10@mail7.io
+  INSTORE_STORE: "2940 N Ashland Ave"
+  ios:
+    USERNAME: test.otp.login.ios@mail7.io
+    PASSWORD: testpwd1
+  android:
+    USERNAME: test.otp.login.and@mail7.io
+  >>>>>>> ab82eaddae254c4cf5f2b94fa683e68ad75856b8
+PASSWORD: testpwd1
+
+pavilions:
+  qa2:
+    ZIPCODE_DEFAULT: "90069"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "5949 E Spring St"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+  prod:
+    ZIPCODE_DEFAULT: "90069"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "5949 E Spring St"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+randalls:
+  qa2:
+    ZIPCODE_DEFAULT: "77024"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "12850 Memorial Dr"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+safeway:
+  qa2:
+    ZIPCODE_DEFAULT: "94566"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "6790 Bernal Ave"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+  prod:
+    ZIPCODE_DEFAULT: "94566"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "6790 Bernal Ave"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+shaws:
+  qa2:
+    ZIPCODE_DEFAULT: "03885"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "100 Shaws Ln"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+
+starmarket:
+  qa2:
+    ZIPCODE_DEFAULT: "02199"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "53 Huntington Ave"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+
+carrsqc:
+  qa2:
+    ZIPCODE_DEFAULT: "99645"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "664 W Evergreen Ave Palmer"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+  prod:
+    ZIPCODE_DEFAULT: "99645"
+    USERNAME_REGULAR: swy10@mail7.io
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "664 W Evergreen Ave Palmer"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+albertsons:
+  qa2:
+    ZIPCODE_DEFAULT: "83713"
+    USERNAME_REGULAR: swy10@mail7.io
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+    USERNAME_MFA: swy10@mail7.io
+    INSTORE_STORE: "4700 N Eagle Rd"
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+
+  prod:
+    ZIPCODE_DEFAULT: "83713"
+    USERNAME_REGULAR: swy10@mail7.io
+    STORENAME_PRODUCTS: 4700 N Eagle Rd
+    INSTORE_STORE: "4700 N Eagle Rd"
+    USERNAME_MFA: swy10@mail7.io
+    ios:
+      USERNAME: test.otp.login.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.otp.login.and@mail7.io
+      PASSWORD: testpwd1
+

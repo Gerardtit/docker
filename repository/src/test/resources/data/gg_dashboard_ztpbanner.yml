@@ -1,0 +1,165 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "75052"
+    STORENAME_PAYBANNER: 4215 S Carrier Pkwy
+    SHOPPING_MODE_PAYBANNER: PICKUP
+    ZIPCODE_DEFAULT: "76109"
+
+vons:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "90066"
+    STORENAME_PAYBANNER: 4030 Centinela Ave
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "92110"
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "02138"
+    STORENAME_PAYBANNER: 699 Mt Auburn St
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "02215"
+
+shaws:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "03060"
+    STORENAME_PAYBANNER: 300 Main St
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "03885"
+
+safeway:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "94568"
+    STORENAME_PAYBANNER: 7499 Dublin Blvd
+    SHOPPING_MODE_PAYBANNER: PICKUP
+    ZIPCODE_DEFAULT: "94566"
+
+randalls:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "77450"
+    STORENAME_PAYBANNER: 525 S Fry Rd
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "77024"
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "90808"
+    STORENAME_PAYBANNER: 5949 E Spring St
+    SHOPPING_MODE_PAYBANNER: PICKUP
+    ZIPCODE_DEFAULT: "90808"
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "60103"
+    STORENAME_PAYBANNER: 123 E Stearns Rd
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "60640"
+
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "99208"
+    STORENAME_PAYBANNER: 9001 N Indian Trail Rd
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "83713"
+
+acme:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "08098"
+    STORENAME_PAYBANNER: 857 Route 45
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "08070"
+
+carrs:
+  qa2:
+    ios:
+      USERNAME_STOREPAYBANNER: test.ztp.ios@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+    android:
+      USERNAME_STOREPAYBANNER: test.ztp.and@mail7.io
+      PASSWORD_STOREPAYBANNER: testpwd1
+
+    # Store details for pay banner
+    ZIPCODE_PAYBANNER: "99501"
+    STORENAME_PAYBANNER: "1340 Gambell St"
+    SHOPPING_MODE_PAYBANNER: IN-STORE
+    ZIPCODE_DEFAULT: "99645"

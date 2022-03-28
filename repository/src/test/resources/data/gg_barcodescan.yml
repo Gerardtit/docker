@@ -1,0 +1,155 @@
+tomthumb:
+  qa2:
+
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "76109"
+
+    # In Store run details
+    ZIPCODE_INSTORE: "76109"
+    STORENAME_INSTORE: 3100 S Hulen St
+
+acme:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "08070"
+    # In Store run details
+    ZIPCODE_INSTORE: "08070"
+    STORENAME_INSTORE: 251 N Broadway
+
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "83713"
+    # In Store run details
+    ZIPCODE_INSTORE: "83713"
+    STORENAME_INSTORE: 4700 N Eagle Rd
+
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "60640"
+    # In Store run details
+    ZIPCODE_INSTORE: "60640"
+    STORENAME_INSTORE: 2940 N Ashland Ave
+
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "90808"
+    # In Store run details
+    ZIPCODE_INSTORE: "90808"
+    STORENAME_INSTORE: 5949 E Spring St
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "77024"
+    # In Store run details
+    ZIPCODE_INSTORE: "77024"
+    STORENAME_INSTORE: 12850 Memorial Dr
+
+safeway:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "94566"
+    # In Store run details
+    ZIPCODE_INSTORE: "94566"
+    STORENAME_INSTORE: 6790 Bernal Ave
+
+shaws:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "03885"
+    # In Store run details
+    ZIPCODE_INSTORE: "03885"
+    STORENAME_INSTORE: 100 Shaws Ln
+
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "02199"
+    # In Store run details
+    ZIPCODE_INSTORE: "02199"
+    STORENAME_INSTORE: 53 Huntington Ave
+
+vons:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "92110"
+    # In Store run details
+    ZIPCODE_INSTORE: "92110"
+    STORENAME_INSTORE: 3645 Midway Dr
+
+carrs:
+  qa2:
+    ios:
+      USERNAME: test.barcodescan.ios@mail7.io
+      PASSWORD: testpwd1
+    android:
+      USERNAME: test.barcodescan.and@mail7.io
+      PASSWORD: testpwd1
+
+    ZIPCODE_DEFAULT: "99645"
+    # In Store run details
+    ZIPCODE_INSTORE: "99645"
+    STORENAME_INSTORE: 664 W Evergreen Ave

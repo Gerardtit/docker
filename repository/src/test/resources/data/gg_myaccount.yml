@@ -1,0 +1,56 @@
+tomthumb:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 76109
+vons:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 92110
+starmarket:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "02215"
+shaws:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: "03885"
+safeway:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 94566
+randalls:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 77024
+pavilions:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 90808
+jewelosco:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 60640
+albertsons:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 83713
+acme:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 08070
+carrs:
+  qa2:
+    USERNAME_REWARDS: test.rewards@mail7.io
+    PASSWORD_REWARDS: testpwd1
+    ZIPCODE_DEFAULT: 99645
+

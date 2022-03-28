@@ -1,0 +1,221 @@
+tomthumb:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.tom@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.tom@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.tom@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.tom@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.tom@mail7.io
+    android:
+      USERNAME: test1.mylist.and.tom@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.tom@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.tom@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.tom@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.tom@mail7.io
+    ZIPCODE_DEFAULT: "76109"
+    ZIPCODE_PRODUCTS: "76109"
+    STORENAME_PRODUCTS: "3100 S Hulen St"
+    ZIPCODE_INSTORE: "76109"
+    STORENAME_INSTORE: "3100 S Hulen St"
+    ITEM_NAME: "Bread"
+vons:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.von@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.von@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.von@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.von@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.von@mail7.io
+    android:
+      USERNAME: test1.mylist.and.von@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.von@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.von@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.von@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.von@mail7.io
+    ZIPCODE_DEFAULT: "92110"
+    ZIPCODE_PRODUCTS: "92110"
+    STORENAME_PRODUCTS: "3645 Midway Dr"
+    ZIPCODE_INSTORE: "92110"
+    STORENAME_INSTORE: "3645 Midway Dr"
+    ITEM_NAME: "Bread"
+starmarket:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.sta@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.sta@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.sta@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.sta@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.sta@mail7.io
+    android:
+      USERNAME: test1.mylist.and.sta@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.sta@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.sta@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.sta@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.sta@mail7.io
+    ZIPCODE_DEFAULT: "02215"
+    ZIPCODE_PRODUCTS: "02215"
+    STORENAME_PRODUCTS: "33 Kilmarnock Rd"
+    ZIPCODE_INSTORE: "02215"
+    STORENAME_INSTORE: "33 Kilmarnock Rd"
+    ITEM_NAME: "Bread"
+shaws:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.sha@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.sha@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.sha@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.sha@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.sha@mail7.io
+    android:
+      USERNAME: test1.mylist.and.sha@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.sha@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.sha@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.sha@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.sha@mail7.io
+    ZIPCODE_DEFAULT: "03885"
+    ZIPCODE_PRODUCTS: "03885"
+    STORENAME_PRODUCTS: "100 Shaws Ln"
+    ZIPCODE_INSTORE: "03885"
+    STORENAME_INSTORE: 100 Shaws Ln
+    ITEM_NAME: "Bread"
+safeway:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.saf@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.saf@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.saf@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.saf@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.saf@mail7.io
+    android:
+      USERNAME: test1.mylist.and.saf@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.saf@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.saf@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.saf@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.saf@mail7.io
+    ZIPCODE_DEFAULT: "94566"
+    ZIPCODE_PRODUCTS: "94566"
+    STORENAME_PRODUCTS: "6790 Bernal Ave"
+    ZIPCODE_INSTORE: "94566"
+    STORENAME_INSTORE: "6790 Bernal Ave"
+    ITEM_NAME: "Bread"
+
+randalls:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.ran@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.ran@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.ran@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.ran@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.ran@mail7.io
+    android:
+      USERNAME: test1.mylist.and.ran@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.ran@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.ran@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.ran@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.ran@mail7.io
+    ZIPCODE_DEFAULT: "77024"
+    ZIPCODE_PRODUCTS: "77024"
+    STORENAME_PRODUCTS: "12850 Memorial Dr"
+    ZIPCODE_INSTORE: "77024"
+    STORENAME_INSTORE: "12850 Memorial Dr"
+    ITEM_NAME: "Bread"
+pavilions:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.pav@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.pav@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.pav@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.pav@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.pav@mail7.io
+    android:
+      USERNAME: test1.mylist.and.pav@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.pav@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.pav@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.pav@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.pav@mail7.io
+    ZIPCODE_DEFAULT: "90808"
+    ZIPCODE_PRODUCTS: "90808"
+    STORENAME_PRODUCTS: "5949 E Spring St"
+    ZIPCODE_INSTORE: "90808"
+    STORENAME_INSTORE: "5949 E Spring St"
+    ITEM_NAME: "Bread"
+jewelosco:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.jew@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.jew@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.jew@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.jew@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.jew@mail7.io
+    android:
+      USERNAME: test1.mylist.and.jew@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.jew@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.jew@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.jew@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.jew@mail7.io
+    ZIPCODE_DEFAULT: "60640"
+    ZIPCODE_PRODUCTS: "60640"
+    STORENAME_PRODUCTS: "2940 N Ashland Ave"
+    ZIPCODE_INSTORE: "60640"
+    STORENAME_INSTORE: "2940 N Ashland Ave"
+    ITEM_NAME: "Bread"
+albertsons:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.alb@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.alb@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.alb@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.alb@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.alb@mail7.io
+    android:
+      USERNAME: test1.mylist.and.alb@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.alb@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.alb@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.alb@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.alb@mail7.io
+    ZIPCODE_DEFAULT: "83713"
+    ZIPCODE_PRODUCTS: "83713"
+    STORENAME_PRODUCTS: "4700 N Eagle Rd"
+    ZIPCODE_INSTORE: "83713"
+    STORENAME_INSTORE: "4700 N Eagle Rd"
+    ITEM_NAME: "Bread"
+acme:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.acm@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.acm@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.acm@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.acm@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.acm@mail7.io
+    android:
+      USERNAME: test1.mylist.and.acm@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.acm@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.acm@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.acm@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.acm@mail7.io
+    ZIPCODE_DEFAULT: "08070"
+    ZIPCODE_PRODUCTS: "08070"
+    STORENAME_PRODUCTS: "251 N Broadway"
+    ZIPCODE_INSTORE: "08070"
+    STORENAME_INSTORE: "251 N Broadway"
+    ITEM_NAME: "Bread"
+carrs:
+  qa2:
+    ios:
+      USERNAME: test1.mylist.ios.car@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.ios.car@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.ios.car@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.ios.car@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.ios.car@mail7.io
+    android:
+      USERNAME: test1.mylist.and.car@mail7.io
+      USERNAME_PURCHASEHISTORY: test1.purchase.and.car@mail7.io
+      USERNAME_NODEALSNOITEMS: test1.mylist.nodealsnoitems.and.car@mail7.io
+      USERNAME_ONEDEAl: test1.mylist.onedeal.and.car@mail7.io
+      USERNAME_ONEITEM: test1.mylist.oneitem.and.car@mail7.io
+    ZIPCODE_DEFAULT: "99645"
+    ZIPCODE_PRODUCTS: "99645"
+    STORENAME_PRODUCTS: "664 W Evergreen Ave"
+    ZIPCODE_INSTORE: "99645"
+    STORENAME_INSTORE: "664 W Evergreen Ave"
+    ITEM_NAME: "Bread"

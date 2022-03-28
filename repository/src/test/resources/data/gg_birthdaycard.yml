@@ -1,0 +1,166 @@
+tomthumb:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 0223
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "76109"
+
+vons:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "92110"
+
+starmarket:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "02215"
+
+shaws:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "03885"
+
+safeway:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 0223
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02 / 23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "94566"
+
+randalls:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "77024"
+
+pavilions:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "90808"
+
+jewelosco:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "60640"
+
+albertsons:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "83713"
+
+acme:
+  qa2:
+    ios:
+      ios:
+        Valid_DateOFBirth: 02/23
+        INValid_DateOFBirth: 23/86
+        USERNAME: test.items.ios@hostux.ninja
+        PASSWORD: testpwd1
+        APP_BACKGROUND_RUNTIME: 200
+      android:
+        USERNAME: test.items.and@hostux.ninja
+        Valid_DateOFBirth: 02/23
+        INValid_DateOFBirth: 42 / 85
+        INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "08070"
+
+carrs:
+  qa2:
+    ios:
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 23/86
+      USERNAME: test.items.ios@hostux.ninja
+      PASSWORD: testpwd1
+      APP_BACKGROUND_RUNTIME: 200
+    android:
+      USERNAME: test.items.and@hostux.ninja
+      Valid_DateOFBirth: 02/23
+      INValid_DateOFBirth: 42 / 85
+      INValid_dateOFBirth: 81
+    ZIPCODE_DEFAULT: "99645"
+
